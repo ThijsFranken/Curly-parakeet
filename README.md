@@ -11,4 +11,5 @@ Curly parakeets are effin' ballers.
 
 Obligatory BLA BLA GIT CLASS BLA BLA BLA
 
-Local edit to induce git apocalypse
+
+Local edit to induce git apocalypse.
