@@ -1,4 +1,5 @@
 # Curly-parakeet
+
 ## Git class 2017
 ### Description:
 
@@ -8,4 +9,4 @@ Curly parakeets are effin' ballers.
 
 *tweet tweet* mofo
 
-BLA BLA GIT CLASS BLA BLA BLA
+Obligatory BLA BLA GIT CLASS BLA BLA BLA
